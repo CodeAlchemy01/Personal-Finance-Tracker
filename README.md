@@ -11,7 +11,10 @@ A personal finance management app built with Kotlin and Jetpack Compose. It prov
 - Detailed reports to analyze spending patterns over time.  
 - Supports both manual input and integration with third-party services.
   
-![WhatsApp Image 2024-12-03 at 2 35 35 PM](https://github.com/user-attachments/assets/2d900a14-806b-48e3-96ce-3271c03c0b77) ![WhatsApp Image 2024-12-03 at 2 37 05 PM](https://github.com/user-attachments/assets/a80c13f7-d6a7-4219-8f8b-711ccecbe2f2) ![WhatsApp Image 2024-12-03 at 2 37 56 PM](https://github.com/user-attachments/assets/f3037727-a868-46a5-b9fd-fa07b5e1f25a) ![image](https://github.com/user-attachments/assets/65d8cb4a-68bc-4d50-8419-093f9064abc7)
+![WhatsApp Image 2024-12-03 at 2 35 35 PM](https://github.com/user-attachments/assets/2d900a14-806b-48e3-96ce-3271c03c0b77) 
+![WhatsApp Image 2024-12-03 at 2 37 05 PM](https://github.com/user-attachments/assets/a80c13f7-d6a7-4219-8f8b-711ccecbe2f2) 
+![WhatsApp Image 2024-12-03 at 2 37 56 PM](https://github.com/user-attachments/assets/f3037727-a868-46a5-b9fd-fa07b5e1f25a) 
+![image](https://github.com/user-attachments/assets/65d8cb4a-68bc-4d50-8419-093f9064abc7)
 
 **My Contributions**  
 As a Kotlin (Android Native) developer, I contributed to this personal finance management application by enhancing its core features using Kotlin and Jetpack Compose. I improved the UI/UX based on Material3 guidelines to ensure a seamless experience. I integrated key libraries like Hilt for dependency injection and Kotlin Flow for reactive data handling. Additionally, I helped optimize the app's performance with Kotlin Coroutines for concurrency. I worked on unit testing using JUnit and Kotest to ensure the app’s stability. Lastly, I contributed to the app's persistence layer using Room DB and DataStore for efficient data management.
